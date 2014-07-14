@@ -1,25 +1,25 @@
 LionEyes
 ========
 
-A simple android application / arduino device used together to determine the current location of the elevators at Victoria Place.
+A simple android application / arduino device used together to determine the current location of the elevators at my apartment building.
   
 The Plan:  
-========  
+-------
   
 Using a pressure based elevation sensor strapped to a battery-powered arduino with WiFi, I will post the current elevation of the
 elevator at any given time (intervals + intelligence) to a database.  
   
 Complementing this Arduino system, I will develop a simple Android app with the following functions.  
   
-1) Show which floor each elevator is on '''now'''  
-2) Extra - Display a history graph showing where each elevator has been.
+1) Show which floor each elevator is on **now**  
+2) Extra - Display a history graph showing where each elevator has been.  
 3) Extra - Allow the user to request an alarm that will go off when an elevator will be on their floor "soon"  
 ---- This will require some artificial intelligence and will be largely a "ball park" estimate.  
   
 Why am I making this?
-========
+-------
 
-This system is '''extremely''' specific to one purpose.  This system will be installed at my apartment where the elevators,
+This system is **extremely** specific to one purpose.  This system will be installed at my apartment where the elevators,
 despite recent upgrades, are quite slow.  Sometimes, when you are running late (as I am, often) it might make more sense to
 take the stairs than to wait for an elevator.  
   
@@ -33,7 +33,7 @@ I'm also going to make the server which supplies the REST interface for the Andr
 starting learning how to use.  
   
 In Summary
-========
+-------
   
 Provide a convenience for the tenants of my apartment who have Android phones (myself included)  
 Make a very small profit (have to break even on parts).  
