@@ -1,6 +1,8 @@
 LionEyes
 ========
 
+### I have discontinued development on this project
+
 A simple android application / arduino device used together to determine the current location of the elevators at my apartment building.
   
 The Plan:  
